@@ -102,3 +102,4 @@ to the data table provider.
 * The generic provider does provide support for `int` and `string` data tables.
 * As mentioned above some part of the code has been taken of to keep the example short. For example 
 it makes sense to create columns and headers automatically as the data is available as in `DataTableColumn`.
+* Demo data has been generated using https://www.mockaroo.com/
